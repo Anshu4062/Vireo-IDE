@@ -1,5 +1,5 @@
 {
-  "name": "code-oss-dev",
+  "name": "vireo",
   "version": "1.103.0",
   "distro": "64ef829677a2ce7428f802dd768c9d436935a962",
   "author": {
@@ -96,9 +96,13 @@
     "@xterm/addon-webgl": "^0.19.0-beta.112",
     "@xterm/headless": "^5.6.0-beta.112",
     "@xterm/xterm": "^5.6.0-beta.112",
+    "esbuild": "^0.25.8",
+    "gulp-merge-json": "^2.2.1",
+    "gulp-sort": "^2.0.0",
     "http-proxy-agent": "^7.0.0",
     "https-proxy-agent": "^7.0.2",
     "jschardet": "3.1.4",
+    "jsonc-parser": "^3.3.1",
     "katex": "^0.16.22",
     "kerberos": "2.1.1",
     "minimist": "^1.2.8",
@@ -108,6 +112,7 @@
     "node-pty": "^1.1.0-beta33",
     "open": "^10.1.2",
     "tas-client-umd": "0.2.0",
+    "ternary-stream": "^3.0.0",
     "v8-inspect-profiler": "^0.1.1",
     "vscode-oniguruma": "1.7.0",
     "vscode-regexpp": "^3.1.0",
